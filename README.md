@@ -1,31 +1,31 @@
 ## Básico da linguagem (Sintaxe, operadores, tipos primitivos)
-1. Crie um algoritmo que mostre uma mensagem ao usuario.
-2. Crie um algoritmo que receba um dado Strig do usuario e o mostre com formatação.
-3. Crie um algoritmo que receba dois numeros e retorne a soma deles.
-4. Crie um algoritmo que receba um dado e retorne informações sobre esse dado (tipo primitivo).
-5. Crie um algoritmo que receba um numero inteiro e retorne seu antecessor e sucessor.
-6. Crie um algoritmo que receba um numero e retorne seu dobro, triplo e sua raiz quadrada.
-7. Crie um algoritmo que receba duas notas e retorne sua media.
-8. Crie um algoritmo que receba um valor em metros e retorne o mesmo valor em centimetros e milimetros.
-9. Crie um algoritmo que receba um numero retorne sua tabuada.
-10. Crie um algoritmo que receba um valor em reais e retorne o mesmo em dolar.
-11. crie um algoritmo que receba altura e largura e retorne a area.
-12. Crie um algoritmo que receba um preço e retorne o mesmo com um desconto de 5%.
-13. Crie um algoritmo que receba um salário e retorne o mesmo com um aumento de 15%.
-14. Crie um algoritmo que receba uma temperatura em ºC e retorne a mesma em ºF.
-15. Crie um algoritmo que receba dias e kilometros rodados num carro alugado e retorne o resultado sabendo que o carro custa R$ 60 por dia e R$ 0.15 por km rodado.
-16. Crie um algoritmo que receba um numero real e o retorne como um inteiro.
-17. Crie um algoritmo que receba o valor de dois catetos e retorne o valor da hipotenusa.
-18. Crie um algoritmo que receba um angulo e retorne seu seno, cosseno e tangente.
-19. Crie um algoritmo que receba uma lista e retorne um item aleatorio da lista.
-20. Crie um algoritmo que receba uma lista e retorne a lista em uma ordem aleatória.
-21. Crie um algoritmo que receba um valor em string e o retorne aplicando formatações de maiusculo minusculo, e a quantidade de caracteres.
-22. Crie um algoritmo que receba um numero inteiro e retorne suas Unidades, Dezenas, Centenas e Milhares.
-23. Crie um algoritmo que receba o nome de uma ciadade e verifique se o nome da cidade começa com santo.
-24. Crie um algoritmo que receba um nome e verifique se silva pertence ao nome.
-25. Crie um algoritmo que receba um nome e verifique quando a letra A aparece primeiro e por ultimo.
-26. Crie um algoritmo que receba um nome e retorne seu primeiro nome e o ultimo nome.
-27. Crie um algoritmo que receba um numero do usuário e crie um numero aleatorio, no fim compare os dois e retorne se o usuario acertou ou não o numero do computador.
+1. [ok] Crie um algoritmo que mostre uma mensagem ao usuario.
+2. [ok] Crie um algoritmo que receba um dado Strig do usuario e o mostre com formatação.
+3. [ok] Crie um algoritmo que receba dois numeros e retorne a soma deles.
+4. [ok] Crie um algoritmo que receba um dado e retorne informações sobre esse dado (tipo primitivo).
+5. [ok] Crie um algoritmo que receba um numero inteiro e retorne seu antecessor e sucessor.
+6. [ok] Crie um algoritmo que receba um numero e retorne seu dobro, triplo e sua raiz quadrada.
+7. [ok] Crie um algoritmo que receba duas notas e retorne sua media.
+8. [ok] Crie um algoritmo que receba um valor em metros e retorne o mesmo valor em centimetros e milimetros.
+9. [ok] Crie um algoritmo que receba um numero retorne sua tabuada.
+10. [ok] Crie um algoritmo que receba um valor em reais e retorne o mesmo em dolar.
+11. [ok] crie um algoritmo que receba altura e largura e retorne a area.
+12. [ok] Crie um algoritmo que receba um preço e retorne o mesmo com um desconto de 5%.
+13. [ok] Crie um algoritmo que receba um salário e retorne o mesmo com um aumento de 15%.
+14. [ok] Crie um algoritmo que receba uma temperatura em ºC e retorne a mesma em ºF.
+15. [ok] Crie um algoritmo que receba dias e kilometros rodados num carro alugado e retorne o resultado sabendo que o carro custa R$ 60 por dia e R$ 0.15 por km rodado.
+16. [ok] Crie um algoritmo que receba um numero real e o retorne como um inteiro.
+17. [ok] Crie um algoritmo que receba o valor de dois catetos e retorne o valor da hipotenusa.
+18. [ok] Crie um algoritmo que receba um angulo e retorne seu seno, cosseno e tangente.
+19. [ok] Crie um algoritmo que receba uma lista e retorne um item aleatorio da lista.
+20. [ok] Crie um algoritmo que receba uma lista e retorne a lista em uma ordem aleatória.
+21. [ok] Crie um algoritmo que receba um valor em string e o retorne aplicando formatações de maiusculo minusculo, e a quantidade de caracteres.
+22. [ok] Crie um algoritmo que receba um numero inteiro e retorne suas Unidades, Dezenas, Centenas e Milhares.
+23. [ok] Crie um algoritmo que receba o nome de uma ciadade e verifique se o nome da cidade começa com santo.
+24. [ok] Crie um algoritmo que receba um nome e verifique se silva pertence ao nome.
+25. [ok] Crie um algoritmo que receba um nome e verifique quando a letra A aparece primeiro e por ultimo.
+26. [ok] Crie um algoritmo que receba um nome e retorne seu primeiro nome e o ultimo nome.
+27. [ok] Crie um algoritmo que receba um numero do usuário e crie um numero aleatorio, no fim compare os dois e retorne se o usuario acertou ou não o numero do computador.
 
 
 ## Estruturas condicionais (if, else...)
