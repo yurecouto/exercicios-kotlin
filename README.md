@@ -46,21 +46,21 @@
 42. [ok] Crie um algoritmo que receba uma altura e um peso, calcule o IMC e retorne a condição da pessoa com esse IMC. 
 43. [ok] Crie um algoritmo que receba o valor a ser pago por um produto, considerando o seu preço normal, e condição de pagamento: à vista dinheiro/cheque: 10% de desconto, à vista no cartão: 5% de desconto, em até 2x no cartão: preço normal, em 3x ou mais no cartão: 20% de juros.
 44. [ok] Crie um algoritmo que joque JO KEN PO.
-45. [] Crie um algoritmo que faça uma contagem regressiva usando FOR.
+45. [ok] Crie um algoritmo que faça uma contagem regressiva usando FOR.
 
 
 ## Estruturas de repetição
-46. Crie um algoritmo que faça uma contagem pulando de 2 em 2.
-47. Crie um algoritmo que some e conte quantos valores entre 0 e 500 são impares e divisiveis por 3.
-48. Crie um algoritmo que receba um numero e retorne sua tabuada com for.
-49. Crie um algoritmo que receba um valor em cada repetição for e retorne a soma de todos os pares.
-50. Crie um algoritmo que receba o inicio de uma PA e a razao desta PA, e retorne o Enésimo numero.
-51. Crie um algoritmo que receba um numero e use estruturas de repetição para verificar se o mesmo é primo.
-52. Crie um algoritmo que receba uma frase e cheque se essa frase é um palindromo.
-53. Crie um algoritmo que receba o ano de nascimento de pessoas e verifique se essas são ou não maiores de idade.
-54. Crie um algoritmo que receba o peso de pessoas e retorne quem é o mais pesado e quem é o mais leve.
-55. Crie um algoritmo que receba nome, idade e sexo de 4 pessoas, No final do programa, ostre: A média de idade do grupo, Qual é o nome do homem mais velho, Quantas mulheres têm menos de 20 anos.
-56. Crie um algoritmo que receba um sexo, caso o usuário digite algo que não seja as opções indicadas, repita até que um valor permitido seja digitado.
+46. [ok] Crie um algoritmo que faça uma contagem pulando de 2 em 2.
+47. [ok] Crie um algoritmo que some e conte quantos valores entre 0 e 500 são impares e divisiveis por 3.
+48. [ok] Crie um algoritmo que receba um numero e retorne sua tabuada com for.
+49. [ok] Crie um algoritmo que receba um valor em cada repetição for e retorne a soma de todos os pares.
+50. [ok] Crie um algoritmo que receba o inicio de uma PA e a razao desta PA, e retorne o Enésimo numero.
+51. [ok] Crie um algoritmo que receba um numero e use estruturas de repetição para verificar se o mesmo é primo.
+52. [ok] Crie um algoritmo que receba uma frase e cheque se essa frase é um palindromo.
+53. [ok] Crie um algoritmo que receba o ano de nascimento de pessoas e verifique se essas são ou não maiores de idade.
+54. [ok] Crie um algoritmo que receba o peso de pessoas e retorne quem é o mais pesado e quem é o mais leve.
+55. [ok] Crie um algoritmo que receba nome, idade e sexo de 4 pessoas, No final do programa, ostre: A média de idade do grupo, Qual é o nome do homem mais velho, Quantas mulheres têm menos de 20 anos.
+56. [ok] Crie um algoritmo que receba um sexo, caso o usuário digite algo que não seja as opções indicadas, repita até que um valor permitido seja digitado.
 57. Crie um algoritmo que pense em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
 58. Crie um algoritmo que receba dois valores e mostre um menu na tela: 1: somar, 2: multiplicar, 3: maior, 4: novos números, 5: sair do programa. Seu programa deverá realizar a operação solicitada em cada caso, e tratar caso uma opção indesejada seja digitada. 
 59. Crie um algoritmo que receba um número qualquer e mostre o seu fatorial exemplo: 5! = 5 * 4 * 3 * 2 * 1 = 120.
