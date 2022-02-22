@@ -29,24 +29,24 @@
 
 
 ## Estruturas condicionais (if, else...)
-28. Crie um algoritmo que receba uma velocidade e retorne o valor da multa caso a velocidade exceda a da via, que é 80 km/h, cada km/h a mais são 7 reais.
-29. Crie um algoritmo que receba um numero e retorne se é par ou impar.
-30. Crie um algoritmo que receba um valor em km de uma viagem, e retorne o preço de 50 cents caso a viagem seja até 200 km, e 45 cents a partir de 200 km.
-31. Crie um algoritmo que receba um ano e retorne se o mesmo é bissexto ou não.
-32. Crie um algoritmo que receba 3 valores e retorne qual é o maior e o menor.
-33. Crie um algoritmo que receba um salario e retorne um aumento de 15% caso o salario seja até 1250, e de 10% caso seja maior.
-34. Crie um algoritmo que receba 3 retas e retorne se essas podem formar um triangulo.
-35. Crie um algoritmo que receba o valor de uma casa, o salario de quem quer compra-la, o tempo que deseja permanecer pagando (em anos) e calcule a parcela, se a parcela for maior que 30% do salário, o impréstimo é negado.
-36. Crie um algoritmo que receba um numero e pergunte se a o usuário quer converter para binario, hexadecimal ou octal, e trate o erro caso escolha uma opção inválida.
-37. Crie um algoritmo que receba 2 numeros e retorne qual é o maior ou se ambos são iguais.
-38. Crie um algoritmo que receba um ano de cascimento e calcule se uma pessoa que nasceu aquele ano está na hora de se alistar, se ainda vai se alistar ou se já passou da hora de se alistar.
-39. Crie um algoritmo que receba duas notas, calcule a media, e retorne se o aluno está aprovado com media > 7, de recuperação com 5 < media < 6.9 e reprovado com media < 4.9.
-40. Crie um algoritmo que receba um ano e retorne se a idade dessa pessoa corresponde a qual categoria de natação, idade <= 9 é MIRIM, 9 < idade <= 14 INFANTIL, 14 < idade <= 19 JUNIOR, 19 < idade <= 25 SENIOR, 25 < idade MASTER.
-41. Crie um algoritmo que receba 3 retas e retorne se essas podem formar um triangulo, e se sim, qual tipo de triangulo elas formam.
-42. Crie um algoritmo que receba uma altura e um peso, calcule o IMC e retorne a condição da pessoa com esse IMC. 
-43. Crie um algoritmo que receba o valor a ser pago por um produto, considerando o seu preço normal, e condição de pagamento: à vista dinheiro/cheque: 10% de desconto, à vista no cartão: 5% de desconto, em até 2x no cartão: preço normal, em 3x ou mais no cartão: 20% de juros.
-44. Crie um algoritmo que joque JO KEN PO.
-45. Crie um algoritmo que faça uma contagem regressiva usando FOR.
+28. [ok] Crie um algoritmo que receba uma velocidade e retorne o valor da multa caso a velocidade exceda a da via, que é 80 km/h, cada km/h a mais são 7 reais.
+29. [ok] Crie um algoritmo que receba um numero e retorne se é par ou impar.
+30. [ok] Crie um algoritmo que receba um valor em km de uma viagem, e retorne o preço de 50 cents caso a viagem seja até 200 km, e 45 cents a partir de 200 km.
+31. [ok] Crie um algoritmo que receba um ano e retorne se o mesmo é bissexto ou não.
+32. [ok] Crie um algoritmo que receba 3 valores e retorne qual é o maior e o menor.
+33. [ok] Crie um algoritmo que receba um salario e retorne um aumento de 15% caso o salario seja até 1250, e de 10% caso seja maior.
+34. [ok] Crie um algoritmo que receba 3 retas e retorne se essas podem formar um triangulo.
+35. [ok] Crie um algoritmo que receba o valor de uma casa, o salario de quem quer compra-la, o tempo que deseja permanecer pagando (em anos) e calcule a parcela, se a parcela for maior que 30% do salário, o impréstimo é negado.
+36. [ok] Crie um algoritmo que receba um numero e pergunte se o usuário quer converter para binario, hexadecimal ou octal, e trate o erro caso escolha uma opção inválida.
+37. [ok] Crie um algoritmo que receba 2 numeros e retorne qual é o maior ou se ambos são iguais.
+38. [ok] Crie um algoritmo que receba um ano de cascimento e calcule se uma pessoa que nasceu aquele ano está na hora de se alistar, se ainda vai se alistar ou se já passou da hora de se alistar.
+39. [ok] Crie um algoritmo que receba duas notas, calcule a media, e retorne se o aluno está aprovado com media > 7, de recuperação com 5 < media < 6.9 e reprovado com media < 4.9.
+40. [ok] Crie um algoritmo que receba um ano e retorne se a idade dessa pessoa corresponde a qual categoria de natação, idade <= 9 é MIRIM, 9 < idade <= 14 INFANTIL, 14 < idade <= 19 JUNIOR, 19 < idade <= 25 SENIOR, 25 < idade MASTER.
+41. [ok] Crie um algoritmo que receba 3 retas e retorne se essas podem formar um triangulo, e se sim, qual tipo de triangulo elas formam.
+42. [ok] Crie um algoritmo que receba uma altura e um peso, calcule o IMC e retorne a condição da pessoa com esse IMC. 
+43. [ok] Crie um algoritmo que receba o valor a ser pago por um produto, considerando o seu preço normal, e condição de pagamento: à vista dinheiro/cheque: 10% de desconto, à vista no cartão: 5% de desconto, em até 2x no cartão: preço normal, em 3x ou mais no cartão: 20% de juros.
+44. [ok] Crie um algoritmo que joque JO KEN PO.
+45. [] Crie um algoritmo que faça uma contagem regressiva usando FOR.
 
 
 ## Estruturas de repetição
