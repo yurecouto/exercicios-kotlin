@@ -79,14 +79,14 @@
 
 
 ## Dados ordenados (Listas, Dicionarios)
-72. [] Crie um algoritmo que tenha uma tupla totalmente preenchida com uma contagem por extenso de zero até vinte seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
-73. [] Crie um algoritmo tenha uma tupla preenchida com os 20 primeiros colocados, da Tabela do Campeonato Brasileiro, na ordem de colocação. Depois mostre: a) apenas os 5 primeiros colocados, b) os últimos 4 colocados da tabela, c) uma lista com os times em ordem alfabética, d) em que posição na tabela está o time da Chapecoense.
-74. [] Crie um algoritmo que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indice o menor e o maior valor que estão na tupla.
-75. [] Crie um algoritmo que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: a) quantas vezes apareceu o valor 9, b) em que posição foi digitado o primeiro valor 3, c) quais foram os números pares.
-76. [] Crie um algoritmo que tenha uma tupla única com nomes de produtos e seus respectivos precos, na sequência No final, mostre uma listagem de precos, organizando os dados em forma tabular.
-77. [] Crie um algoritmo que tenha uma tupla com várias palavras (não usar acentos).Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
-78. [] Crie um algoritmo que leia 5 valores números e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitados e as suas respectivas posições na lista.
-79. [] Crie um algoritmo que onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+72. [ok] Crie um algoritmo que tenha uma tupla totalmente preenchida com uma contagem por extenso de zero até vinte seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+73. [ok] Crie um algoritmo tenha uma tupla preenchida com os 20 primeiros colocados, da Tabela do Campeonato Brasileiro, na ordem de colocação. Depois mostre: a) apenas os 5 primeiros colocados, b) os últimos 4 colocados da tabela, c) uma lista com os times em ordem alfabética, d) em que posição na tabela está o time da Chapecoense.
+74. [ok] Crie um algoritmo que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+75. [ok] Crie um algoritmo que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: a) quantas vezes apareceu o valor 9, b) em que posição foi digitado o primeiro valor 3, c) quais foram os números pares.
+76. [ok] Crie um algoritmo que tenha uma tupla única com nomes de produtos e seus respectivos precos, na sequência No final, mostre uma listagem de precos, organizando os dados em forma tabular.
+77. [ok] Crie um algoritmo que tenha uma tupla com várias palavras (não usar acentos).Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+78. [ok] Crie um algoritmo que leia 5 valores números e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitados e as suas respectivas posições na lista.
+79. [ok] Crie um algoritmo que onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 80. [] Crie um algoritmo que onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 81. [] Crie um algoritmo que vai ler vários números e colocá-los em uma lista Depois disso, mostre: a) quantos números foram digitados, b) a lista de valores, ordenada de forma decrescente, c) se o valor 5 foi digitado e está ou não na lista.
 82. [] Crie um algoritmo que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
