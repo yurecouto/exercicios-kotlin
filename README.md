@@ -106,13 +106,13 @@
 
 
 ## Funções e modulos
-96. Crie um algoritmo que tenha uma função chamada area(), que receba dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
-97. Crie um algoritmo que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com decoração de tamanho adaptável.
-98. Crie um algoritmo que tenha uma função chamada contador(), que recebe três parâmetros: início, fim e passo, E realize a contagem, Seu programa tem que realizar três contagens através da função criada, a) de 1 até 10, de 1 em 1. b) de 10 até 0, de 2 em 2. c) Uma contagem personalizada.
-99. Crie um algoritmo que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
-100. Crie um algoritmo que tenha uma lista chamada números e duas funções chamadas sorteia() e soma_par(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
-101. Crie um algoritmo que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATORIO nas eleições.
-102. Crie um algoritmo que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+96. [ok] Crie um algoritmo que tenha uma função chamada area(), que receba dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+97. [ok] Crie um algoritmo que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com decoração de tamanho adaptável.
+98. [ok] Crie um algoritmo que tenha uma função chamada contador(), que recebe três parâmetros: início, fim e passo, E realize a contagem, Seu programa tem que realizar três contagens através da função criada, a) de 1 até 10, de 1 em 1. b) de 10 até 0, de 2 em 2. c) Uma contagem personalizada.
+99. [ok] Crie um algoritmo que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+100. [ok] Crie um algoritmo que tenha uma lista chamada números e duas funções chamadas sorteia() e soma_par(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
+101. [ok] Crie um algoritmo que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATORIO nas eleições.
+102. [] Crie um algoritmo que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 103. Crie um algoritmo que tenha uma função chamada ficha(), que receba dois parâmetros: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
 104. Crie um algoritmo que tenha a função leia_int(), que vai funcionar de forma emelhante à função input do Python, só que fazendo a validação para aceitar apenas um valor numérico. ex.: n = leia_int("Digite um n").
 105. Crie um algoritmo que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações: quantidade de notas a maior nota, a menor nota, a média da turma, a situação (opcional), Adicione tambeem as docstrings da função.
